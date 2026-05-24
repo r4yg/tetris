@@ -50,7 +50,7 @@ A full-featured Tetris implementation:
 ## Getting Started
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/r4yg/tetris.git
 cd tetris
 npm install
 npm run dev
